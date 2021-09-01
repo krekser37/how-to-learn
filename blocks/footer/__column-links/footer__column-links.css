@@ -4,6 +4,12 @@
   padding-left: 0;
 }
 
-.footer__column-links li:last-of-type .footer__column-link  {
+/* .footer__column-links li:last-of-type .footer__column-link  {
   margin-bottom: 0;
 }
+
+Екатерина, ранее вы писали, что нужно сбросить отступ у последнего элемента,
+но из-за ссылок свойство last-child не работает, поэтому я посоветовавшись
+с наставником, сделала так. Или второй вариант нужно было делать класс для li,
+но мы ограничены в классах. Поэтому так)
+*/
