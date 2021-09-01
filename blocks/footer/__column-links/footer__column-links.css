@@ -4,3 +4,6 @@
   padding-left: 0;
 }
 
+.footer__column-links li:last-of-type .footer__column-link  {
+  margin-bottom: 0;
+}
