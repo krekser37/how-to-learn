@@ -3,3 +3,8 @@
   background-size: contain;
   background-repeat: no-repeat;
 }
+
+.logo:hover {
+  opacity: 0.5;
+  transition: 1s;
+}

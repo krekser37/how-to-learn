@@ -1,7 +1,7 @@
-.table__heading {
+.khan__quote-author {
   line-height: 1.15;
   font-size: 24px;
   font-weight: bold;
-  justify-content: center;
-  margin: 0;
+  margin-bottom: 10px;
+  margin-top: 0;
 }
